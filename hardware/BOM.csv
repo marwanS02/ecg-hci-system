@@ -1,0 +1,8 @@
+Item;Qty;Notes;Link/PN
+Arduino Uno;1;Main controller;
+AD8232 module;1;ECG front-end;
+ECG electrodes;3;Left arm, right arm, ground;
+LCD with I2C;1;16x2 display;
+Buzzer;1;5V piezo;
+Jumper wires;as needed;;
+USB cable;1;For Arduino to PC connection;
